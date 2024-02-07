@@ -18,4 +18,3 @@ FROM
 WHERE
 	data_9.final_fusion_with_vent_plus.stay_id = cohort.select_id
 ORDER BY stay_id,date
-limit 20000
