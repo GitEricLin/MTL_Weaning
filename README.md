@@ -1,4 +1,6 @@
-# MIMIC-IV Data Extraction
+# Multitask learning to predict successful weaning 
+
+# MIMIC-IV Data 
 
 ##### 1. Execute all files in the 'mimic derived' folder within the SQL directory sequentially to obtain the derived table.
 
