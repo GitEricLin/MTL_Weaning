@@ -7,7 +7,6 @@ WITH cohort AS
 		data_9.icu_detail
 	WHERE
 		hospstay_seq = 1 and icustay_seq = 1 and los_icu >= 4 and age >=18
-		 --icustay_seq = 1 and los_icu >= 4 and age >=18
 )
 
 
